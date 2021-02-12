@@ -1,0 +1,5 @@
+approvers:
+  - sjenning
+  - dgoodwin
+  - joelddiaz
+component: "Cloud Credential Operator"
